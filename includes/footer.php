@@ -1,5 +1,5 @@
 <?php
-$year = date("Y");
+$year = date("Y M D");
 ?>
 <div class="footerContainer">
 <footer>
